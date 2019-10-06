@@ -1,0 +1,12 @@
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\obj\Debug\Framework40Application.csprojAssemblyReference.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\obj\Debug\Framework40Application.csproj.CoreCompileInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\Framework40Application.exe.config
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\Framework40Application.exe
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\Framework40Application.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\MultitargetStandardLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\System.Net.Http.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\MultitargetStandardLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\bin\Debug\System.Net.Http.xml
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\obj\Debug\Framework40Application.csproj.CopyComplete
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\obj\Debug\Framework40Application.exe
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework40Application\obj\Debug\Framework40Application.pdb

@@ -1,0 +1,14 @@
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\CoreApplication.deps.json
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\CoreApplication.runtimeconfig.json
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\CoreApplication.runtimeconfig.dev.json
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\CoreApplication.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\CoreApplication.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\StandardClassLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\bin\Debug\netcoreapp2.1\StandardClassLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.csprojAssemblyReference.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.AssemblyInfoInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.AssemblyInfo.cs
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.csproj.CopyComplete
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\CoreApplication\obj\Debug\netcoreapp2.1\CoreApplication.pdb

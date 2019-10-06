@@ -1,0 +1,9 @@
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\bin\Debug\netstandard2.0\StandardClassLibrary.deps.json
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\bin\Debug\netstandard2.0\StandardClassLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\bin\Debug\netstandard2.0\StandardClassLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\obj\Debug\netstandard2.0\StandardClassLibrary.csprojAssemblyReference.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\obj\Debug\netstandard2.0\StandardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\obj\Debug\netstandard2.0\StandardClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\obj\Debug\netstandard2.0\StandardClassLibrary.AssemblyInfo.cs
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\obj\Debug\netstandard2.0\StandardClassLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\StandardClassLibrary\obj\Debug\netstandard2.0\StandardClassLibrary.pdb

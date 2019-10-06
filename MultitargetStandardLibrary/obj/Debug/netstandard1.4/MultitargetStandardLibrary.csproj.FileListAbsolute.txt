@@ -1,0 +1,9 @@
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\netstandard1.4\MultitargetStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\netstandard1.4\MultitargetStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\netstandard1.4\MultitargetStandardLibrary.AssemblyInfo.cs
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\bin\Debug\netstandard1.4\MultitargetStandardLibrary.deps.json
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\bin\Debug\netstandard1.4\MultitargetStandardLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\bin\Debug\netstandard1.4\MultitargetStandardLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\netstandard1.4\MultitargetStandardLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\netstandard1.4\MultitargetStandardLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\netstandard1.4\MultitargetStandardLibrary.csprojAssemblyReference.cache

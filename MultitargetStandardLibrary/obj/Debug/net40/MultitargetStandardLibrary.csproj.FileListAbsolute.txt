@@ -1,0 +1,9 @@
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\net40\MultitargetStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\net40\MultitargetStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\net40\MultitargetStandardLibrary.AssemblyInfo.cs
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\bin\Debug\net40\MultitargetStandardLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\bin\Debug\net40\MultitargetStandardLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\net40\MultitargetStandardLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\net40\MultitargetStandardLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\bin\Debug\net40\Newtonsoft.Json.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\MultitargetStandardLibrary\obj\Debug\net40\MultitargetStandardLibrary.csproj.CopyComplete

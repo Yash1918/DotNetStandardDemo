@@ -1,0 +1,11 @@
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\bin\Debug\Framework45application.exe.config
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\bin\Debug\Framework45application.exe
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\bin\Debug\Framework45application.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\bin\Debug\MultitargetStandardLibrary.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\bin\Debug\MultitargetStandardLibrary.pdb
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\obj\Debug\Framework45application.csprojAssemblyReference.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\obj\Debug\Framework45application.csproj.CoreCompileInputs.cache
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\obj\Debug\Framework45application.csproj.CopyComplete
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\obj\Debug\Framework45application.exe
+C:\Users\ph\source\Repos\CrossplatformTargeting\Framework45application\obj\Debug\Framework45application.pdb
